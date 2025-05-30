@@ -5,7 +5,7 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "2690320",
         "UpdateSourceArgs": "2682580",
-        "UpdateSourceVersion": "public-test",
+        "UpdateSourceVersion": "public-test -betapassword testpass",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
