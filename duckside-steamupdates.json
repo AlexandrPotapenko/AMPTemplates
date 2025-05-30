@@ -1,0 +1,15 @@
+[
+    {
+        "UpdateStageName": "Download public-test",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2690320",
+        "UpdateSourceArgs": "2682580",
+        "UpdateSourceVersion": "public-test",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Linux",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
